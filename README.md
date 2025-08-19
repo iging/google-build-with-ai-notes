@@ -1,6 +1,6 @@
 # GDG Build with AI Workshop
 
-This repository contains materials for the "Build with AI" workshop series, focusing on practical implementations of Google's Generative AI technologies.
+This is a collection of learning materials for the "Build with AI" workshops. It includes easy-to-follow guides and code examples that show how to use Google's AI tools. You'll find step-by-step instructions for different projects that teach you how to create smart programs that can understand and generate text, images, and more.
 
 ## 📚 Workshop Overview
 
